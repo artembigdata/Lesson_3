@@ -1,4 +1,4 @@
-def my_fun(s_1: object, s_2: object) -> object:
+def my_fun(s_1, s_2):
 
   s_1 = int(input("введите число_1: "))
   s_2 = int(input("введите число_2:  "))
